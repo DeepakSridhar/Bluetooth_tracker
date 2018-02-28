@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_title.xml.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_term_activity.xml.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\layout\\term_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_enguins.xml.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\layout\\enguins.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\menu_option_menu.xml.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\menu\\option_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\raw_beyondsamsung.mp3.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\raw\\beyondsamsung.mp3"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_pymasdeabout.png.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\drawable-mdpi\\pymasdeabout.png"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\raw_smackthat.mp3.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\raw\\smackthat.mp3"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pymasdeabout.png.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\drawable-hdpi\\pymasdeabout.png"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\raw_swordsound.mp3.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\raw\\swordsound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_images.jpg.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\drawable-hdpi\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_message.xml.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_name.xml.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_list.xml.flat",
+        "source": "C:\\Users\\deep1\\Bluetooth tracker 2.0\\app\\src\\main\\res\\layout\\device_list.xml"
+    }
+]
